@@ -1,0 +1,21 @@
+
+.social {
+    margin-right: .25rem;
+  }
+
+  .social.github {
+    background-color: #000000;
+    color: #fefefe;
+  }
+  
+  .social.github:hover, .social.github:focus {
+    background-color: black;
+    color: #fefefe;
+  }
+  
+  .social > .fa {
+    color: #fefefe;
+    margin-right: .25rem;
+  }
+  
+  
