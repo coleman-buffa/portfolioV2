@@ -1,6 +1,6 @@
 
 .social {
-    margin-right: .25rem;
+    margin: .25rem;
   }
 
   .social.github {
@@ -15,7 +15,14 @@
   
   .social > .fa {
     color: #fefefe;
-    margin-right: .25rem;
+    margin: .25rem;
   }
-  
-  
+
+  .callout.primary {
+    background-color: #008EC1;
+    margin: 0 0 0 0;
+  }
+
+  #content {
+      background-color: #707070;
+  }
