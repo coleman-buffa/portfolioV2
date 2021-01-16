@@ -1,4 +1,4 @@
-# portfolioV2
+# Portfolio Version 2
 
 Welcome to the second edition of my portfolio showcasing the web development skills I have learned so far. I wanted to build a portfolio site that was responsive, mobile-first design, and easy to read. I prefer designs that are straight forward and direct, and tried to build this site with that in mind. I also wanted to try a new CSS framework and decided on Zurb's Foundation. The assignments included in the portfolio demonstrate the following noteworthy skills:
 
