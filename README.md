@@ -1,6 +1,15 @@
 # portfolioV2
 
-Project description goes here
+Welcome to the second edition of my portfolio showcasing the web development skills I have learned so far. I wanted to build a portfolio site that was responsive, mobile-first design, and easy to read. I prefer designs that are straight forward and direct, and tried to build this site with that in mind. I also wanted to try a new CSS framework and decided on Zurb's Foundation. The assignments included in the portfolio demonstrate the following noteworthy skills:
+
+* HTML/CSS
+* Javascript and JQuery
+* Responsive design
+* CSS Frameworks
+* Local Storage
+* AJAX and third party APIs
+* Project planning and working in a team setting
+
 
 ## Table of Contents
 
@@ -10,10 +19,6 @@ Project description goes here
 | [Technologies](#technologies)   | [Deployed Link](#deployed-link) | [Authors](#authors) |
 | [Acknowledgments](#acknowledgments) | [License](#license) |
 ---
-
-## Goals and Methods
-
-Project goals and methods
 
 ## Technologies 
 
