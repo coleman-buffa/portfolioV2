@@ -31,7 +31,7 @@ Welcome to the second edition of my portfolio showcasing the web development ski
 
 ## Deployed Link
 
-* [See Live Site](https://coleman-buffa.github.io/portfoliov2/)
+* [See Live Site](https://coleman-buffa.github.io/portfolioV2/)
 
 ## Authors
 
