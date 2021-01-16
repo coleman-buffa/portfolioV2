@@ -26,3 +26,12 @@
   #content {
       background-color: #707070;
   }
+
+  hr {
+    height: 1px;
+    background-color: #008EC1;
+  }
+
+  .LI-profile-badge {
+    margin: 0.25rem;
+  }
